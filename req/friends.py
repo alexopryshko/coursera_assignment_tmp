@@ -1,5 +1,6 @@
 def calc_age(uid):
-    pass
+    age = 15
+    return 15
 
 
 if __name__ == '__main__':
